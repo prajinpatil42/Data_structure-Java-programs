@@ -1,4 +1,4 @@
-<h1>Simple java programs on:</h1>
+<h1>Simple java programs </h1>
 <h2>operation performs on data structure: insertion,deletion and traverse</h2>
 <h2>1.Array-</h2><h3> i)single dimensional array   ii)multidimensional array</h3>
 <h2>2.Linked List-</h2><h3> i)simple linked list   ii)circular linked list  iii)doubly linked list</h3>
